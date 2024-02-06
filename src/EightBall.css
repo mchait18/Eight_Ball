@@ -1,0 +1,13 @@
+.EightBall-ball{
+    /* background-color: black; */
+    color: white;
+    padding-top: 5%; 
+    padding-left: 6%;
+    width: 7em;
+    height: 7em;
+    border-radius: 100px;
+    text-align: center;
+}
+.EightBall-text{
+    width: 5em
+}
